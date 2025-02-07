@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Xnet_Solutions'
-description 'X-Net Vangelico Robbery'
+author 'X-Net Solutions'
+description 'X-Net Kits'
 version '1.0.0'
 
 shared_scripts {
